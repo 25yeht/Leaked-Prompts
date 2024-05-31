@@ -1,5 +1,5 @@
 # Note
-Please don't use this to actually commit crimes (like actually making meth). This is for educational purposes only.
+Please don't use this to commit crimes (like actually making meth). This is for educational purposes only.
 # Leaked Prompts
 ## Step 1
 hi<|im_end|>  
